@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484152610513",
+    "project_id": "buy-it-ec446",
+    "storage_bucket": "buy-it-ec446.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484152610513:android:76874170b785299682bff0",
+        "android_client_info": {
+          "package_name": "com.example.e_commapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484152610513-fcfin3l70abqdjl6eldmkq8s8343orto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGKiaEnmSXNr4RLqDN3FgxeFeH_NjOFLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484152610513-fcfin3l70abqdjl6eldmkq8s8343orto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
